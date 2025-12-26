@@ -17,4 +17,9 @@ PIXEL_ID = "1194757268579700"
 [credentials]
 DanyR = "P@ssword123"
 Zabeo = "T@volino123"
-anna  = "mypassword"
+
+
+[permissions.Zabeo]
+ad_accounts = ["187315900274463"]
+pages = []
+pixels = ["1049204576680300"]
