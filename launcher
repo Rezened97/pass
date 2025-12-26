@@ -1,1 +1,20 @@
+# Versione della Graph API che usi (il tuo code la chiama API_VERSION)
+API_VERSION    = "v23.0"
 
+# ID dell’AdAccount (senza "act_")
+AD_ACCOUNT_ID  = "1179597870196968"
+
+# Credenziali Facebook per FacebookAdsApi.init()
+APP_ID         = "601119299210869"
+APP_SECRET     = "56fc877a67aa979f11a64971dfff0236"
+ACCESS_TOKEN   = "EAAIitv5MDnUBO5TYroZC9anMeZA4vA0LSg1iUW02ZBoTdSb5d9xcDGymBiNryu1Mi78XD5ScOO9tXnsQqMdZB66qdhpBuE0mytZAkEa9GOekIIc3q23Ed3NEdgmGpekIQPZAO3VVSHUYpK0aL4aQkcIr7U5yjHXGcJIobsc37DfWCLrt96R2avTFwviHxGlBQWZCgZDZD"
+
+# ID business (poiché config/settings.py si aspetta FB_BUSINESS_ID, non fb_business_id)
+FB_BUSINESS_ID = "378284253226165"
+PIXEL_ID = "1194757268579700"
+
+# Le tue credenziali di login multi-utente in chiaro:
+[credentials]
+DanyR = "Password123"
+Zabeo = "Tavolino123"
+anna  = "mypassword"
